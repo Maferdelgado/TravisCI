@@ -10,6 +10,7 @@ public class Menu {
 }
     public static void main(String[] args)
     {
+        System.out.println("Calculadora Básica");
         int op=0;
         double n1,n2,multiplicacion,suma,division,resta;
         do{
